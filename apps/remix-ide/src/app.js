@@ -447,7 +447,7 @@ async function run () {
     methods: [],
     name: "reef",
     type: "iframe",
-    url: "https://remix-plugin.reefscan.com/" // "http://localhost:8000/"
+    url: "https://remix-plugin.reefscan.info/" // "http://localhost:8000/"
   };
   const reef = new IframePlugin(reefProfile);
 
