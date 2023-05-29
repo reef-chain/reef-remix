@@ -440,7 +440,7 @@ async function run () {
     registry.get('fileproviders/browser').api
   )
   const reefProfile = {
-    displayName: "Deploy & Run",
+    displayName: "Reef Deploy & Run",
     hash: "local-ReefNetwork",
     icon: "assets/img/deployAndRun.webp",
     location: "sidePanel",
